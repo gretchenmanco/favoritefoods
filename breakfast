@@ -1,0 +1,20 @@
+#  Gretchen is learning Markdown
+
+
+#  ONE pound-sign is a HEADING
+
+##  TWO pound-signs is SUB-HEADING
+
+###   THREE pound-signs is a SUB-SUB-HEADING
+
+####   FOUR pound-signs is What?  What happens here?
+
+Nice, just use a blank line to separate paragraphs.
+
+Basically three text attributes:  'monospace'  and  _italicWithUseOfOneUnderline_ or *italicWithUseOfOneAsterisk*    and __boldWithTwoUnderlines__  or **boldWithTwoStars**
+
+Want a Horizontal Rule to appear?  Just triple the dash symbol (or is that an underline?)    
+Here's the test:
+---
+
+**Done for now**
