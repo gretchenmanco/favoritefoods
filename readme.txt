@@ -34,11 +34,11 @@ Numbered list:
   2. oranges
   3. pears
 
-A [link](http://example.com).
+A [link](http://www.wikipedia.com).
 
 
 
 **Sample Text Below to Test**
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut turpis turpis, gravida et sapien eu, pellentesque hendrerit lorem. Sed nisi sem, sodales sit amet tincidunt eget, laoreet quis leo. Curabitur felis odio, scelerisque sed lacus eu, pretium eleifend tortor. Aliquam ut risus mauris. Proin luctus, diam quis vestibulum eleifend, tellus quam eleifend tortor, sit amet feugiat nulla odio id arcu. Donec ac massa dui. Curabitur molestie dolor turpis, vitae tempor elit condimentum sed.
+__Lorem ipsum dolor sit amet,__  BOLD LEFT? consectetur adipiscing elit. Ut turpis turpis, gravida et sapien eu, pellentesque hendrerit lorem. Sed nisi sem, sodales sit amet tincidunt eget, laoreet quis leo. _Curabitur felis odio_ ITALICS LEFT?, scelerisque sed lacus eu, pretium eleifend tortor. Aliquam ut risus mauris. Proin luctus, diam quis vestibulum eleifend, tellus quam eleifend tortor, sit amet feugiat nulla odio id arcu. Donec ac massa dui. Curabitur molestie dolor turpis, vitae tempor elit condimentum sed.
 
 Sed imperdiet imperdiet odio vel laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit sagittis lectus, id posuere eros placerat ut. Mauris tortor dolor, finibus id congue eget, sollicitudin vel odio. Vestibulum facilisis orci suscipit nisi ultrices, sit amet blandit ante lobortis. 
